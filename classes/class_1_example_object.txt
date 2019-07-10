@@ -1,0 +1,13 @@
+Mod 1
+
+Attributes:
+class_type "front end"
+4_year_degree false
+course_length 1
+cost 4000
+
+Methods:
+fail_mod = course_length + 1
+change_course = class_type >> "back end"
+make_payment = cost - 2000
+pass_mod = course_length - 1
