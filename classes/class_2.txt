@@ -1,0 +1,13 @@
+State university
+
+Attributes:
+cost 100000 (integer)
+course_length 4 (float)
+degree_type "computer science" (string)
+private false (boolean)
+
+Methods:
+make_payment (subtracts payment amount from cost)
+change_degree (changes degree_type to newly selected degree_type)
+get_masters (changes course_length to 2 and cost to 40000)
+fail_semester (adds 0.5 to course_length)

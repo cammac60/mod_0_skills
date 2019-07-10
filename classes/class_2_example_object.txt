@@ -1,0 +1,13 @@
+CSU
+
+Attributes:
+cost 120000
+course_length 4
+degree_type "computer science"
+private false
+
+Methods:
+make_payment = cost - 20000
+fail_semester = course_length + 0.5
+change_degree = changes degree_type to "business"
+get_masters = course_length 2 & cost 40000
