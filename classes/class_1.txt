@@ -1,0 +1,13 @@
+Coding_school
+
+Attributes:
+course_type "front end" (string)
+4_year_degree false (boolean)
+course_length 6 (integer)
+cost 20000 (integer)
+
+Methods:
+fail_mod (fails current mod, add 1 to course_length)
+change_course (changes course_type to "back end")
+make_payment (reduces cost by amount of payment)
+pass_mod (passes current mod, subtract 1 from course_length)
