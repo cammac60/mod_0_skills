@@ -1,9 +1,9 @@
-Mod 1
+Turing
 
 Attributes:
 class_type "front end"
 4_year_degree false
-course_length 1
+course_length 4
 cost 4000
 
 Methods:
